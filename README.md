@@ -2,7 +2,7 @@
 <b>
 <h1>Contexte général du projet</h1>
 
-FindMyCity est un projet innovant qui vise à améliorer la communication et la collaboration entre les 
+ForMyCity est un projet innovant qui vise à améliorer la communication et la collaboration entre les 
 citoyens et les autorités locales. En utilisant la technologie et une plateforme en ligne conviviale, 
 FindMyCity facilite le signalement des problèmes urbains, le suivi des progrès et l'engagement 
 communautaire.
