@@ -4,7 +4,7 @@
 
 ForMyCity est un projet innovant qui vise à améliorer la communication et la collaboration entre les 
 citoyens et les autorités locales. En utilisant la technologie et une plateforme en ligne conviviale, 
-FindMyCity facilite le signalement des problèmes urbains, le suivi des progrès et l'engagement 
+ForMyCity facilite le signalement des problèmes urbains, le suivi des progrès et l'engagement 
 communautaire.
 
 
@@ -21,12 +21,12 @@ concentrant sur les domaines les plus critiques.
 
 <ul>
   <li>
-    Engagement communautaire : FindMyCity encourage un engagement communautaire 
+    Engagement communautaire : ForMyCity encourage un engagement communautaire 
     plus fort en impliquant activement les citoyens dans l'amélioration de leur ville, 
     favorisant ainsi un sentiment d'appartenance et de responsabilité partagée.
   </li>
   <li> 
-    Transparence et suivi : Le système de suivi solide de FindMyCity offre une transparence totale 
+    Transparence et suivi : Le système de suivi solide de ForMyCity offre une transparence totale 
     sur les actions entreprises par les autorités, permettant aux citoyens de rester informés de 
     l'avancement des réparations ou des résolutions des problèmes qu'ils ont signalés.
   </li>
